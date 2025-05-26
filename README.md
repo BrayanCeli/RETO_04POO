@@ -26,6 +26,10 @@ Ejercicio de clase de figuras y mejora del codigo del restaurante :b
 - Genera un triangulo generico
 - Calcula que tipo de triangulo es
 
-## EXPLICACION (Ejercicio Restaurante)
+## EXPLICACION (Ejercicio Restaurante) CHANGELOG
+- Se agregaron los setter y getters a lo largo del menu
+- Se realizo una clase de pago el cual simula uno real con un proceso y resultados hipoteticos como pago fallido en proceso o exitoso sin afectar el funcionamiento del codigo (Decorativo)
+- Se añadio un sistema de descuento acorde al plato principal y su bebida
+
 
 
